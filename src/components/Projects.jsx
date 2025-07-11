@@ -20,7 +20,7 @@ const Projects = () => {
       image:
         "https://images.pexels.com/photos/2189835/pexels-photo-2189835.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
       technologies: ["React", "OpenAI API", "Node.js", "Prisma", "Vercel"],
-      liveUrl: "#",
+      liveUrl: "https://one-gpt-ai-one.vercel.app/",
       githubUrl: "#",
     },
     {
