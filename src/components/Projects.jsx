@@ -21,7 +21,7 @@ const Projects = () => {
         "https://images.pexels.com/photos/2189835/pexels-photo-2189835.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
       technologies: ["React", "OpenAI API", "Node.js", "Prisma", "Vercel"],
       liveUrl: "https://one-gpt-ai-one.vercel.app/",
-      githubUrl: "#",
+      githubUrl: "https://github.com/manu1242/ONE-AI",
     },
     {
       title: "Real-Time Weather App",
@@ -30,8 +30,8 @@ const Projects = () => {
       image:
         "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
       technologies: ["Vue.js", "D3.js", "Python", "Flask", "PostgreSQL"],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://cloneweather.netlify.app/",
+      githubUrl: "https://github.com/manu1242/weather",
     },
     {
       title: "Job Tracking Platform",
@@ -40,19 +40,10 @@ const Projects = () => {
       image:
         "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
       technologies: ["React", "Firebase", "TypeScript", "Material-UI"],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://job-tracker-gamma.vercel.app/",
+      githubUrl: "https://github.com/manu1242/Job_tracker",
     },
-    {
-      title: "E-Commerce Website",
-      description:
-        "Feature-rich e-commerce application with product browsing, secure checkout, and Stripe-powered payments.",
-      image:
-        "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe", "JWT"],
-      liveUrl: "#",
-      githubUrl: "#",
-    },
+    
     {
       title: "To-Do List Application",
       description:
@@ -61,8 +52,8 @@ const Projects = () => {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQWa6-a-OsjUZ2f8wvNzBNi-TX6IeFXeeQQ&s",
 
       technologies: ["React", "Redux", "Firebase", "TailwindCSS"],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://manutodolist.netlify.app/",
+      githubUrl: "https://github.com/manu1242/To-Do-List",
     },
     {
       title: "Smart Billing System",
@@ -77,8 +68,8 @@ const Projects = () => {
         "React",
         "PDF Generator",
       ],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://store-project-ui.vercel.app/login",
+      githubUrl: "https://github.com/manu1242/store",
     },
   ];
 
