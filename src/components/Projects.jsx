@@ -10,8 +10,8 @@ const Projects = () => {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtlXFPyIrGksWVi6qcXcS2zB5Hq6RZGadZA&s",
       technologies: ["React", "Node.js", "MongoDB", "JWT", "Stripe"],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://book-wise-dev.vercel.app/",
+      githubUrl: "https://github.com/manu1242",
     },
     {
       title: "ONE - AI (GPT) Application",
