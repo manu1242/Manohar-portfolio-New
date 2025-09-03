@@ -18,7 +18,7 @@ const Projects = () => {
       description:
         "AI-integrated platform using OpenAI APIs for content generation, summarization, image generation, and chatbots with export capabilities.",
       image:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrendsresearch.org%2Finsight%2Fai-is-here-to-stay-what-can-be-done%2F%3Fsrsltid%3DAfmBOorleq8n4A44JUB3AL5nSPdxyryNiAxaHiUV_tvuGUL0ADL5In-b&psig=AOvVaw2sxzoQkUJxVKkEeDQ7Xkd0&ust=1756984207847000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC_9bS6vI8DFQAAAAAdAAAAABAE,
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrendsresearch.org%2Finsight%2Fai-is-here-to-stay-what-can-be-done%2F%3Fsrsltid%3DAfmBOorleq8n4A44JUB3AL5nSPdxyryNiAxaHiUV_tvuGUL0ADL5In-b&psig=AOvVaw2sxzoQkUJxVKkEeDQ7Xkd0&ust=1756984207847000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC_9bS6vI8DFQAAAAAdAAAAABAE",
       technologies: ["React", "OpenAI API", "Node.js", "Prisma", "Vercel"],
       liveUrl: "https://one-gpt-ai-one.vercel.app/",
       githubUrl: "https://github.com/manu1242/ONE-AI",
