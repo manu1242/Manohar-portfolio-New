@@ -68,7 +68,7 @@ const Projects = () => {
         "React",
         "PDF Generator",
       ],
-      liveUrl: "https://store-project-ui.vercel.app/login",
+      liveUrl: "https://store-project-ui.vercel.app/",
       githubUrl: "https://github.com/manu1242/store",
     },
   ];
