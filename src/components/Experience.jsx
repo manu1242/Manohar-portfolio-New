@@ -5,11 +5,15 @@ const Experience = () => {
   const experiences = [
     {
       type: 'work',
-      title: 'Web Developer Intern',
-      company: 'MSR TECH LABZ',
-      location: 'Hyderabad, India (Remote)',
-      duration: 'Dec 2024 - Apr 2025',
-      description: 'Contributed to the development of a responsive Task Management Web Application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented features such as user authentication, task filtering, and real-time updates using React hooks and RESTful APIs. Collaborated with senior developers to debug, optimize performance, and ensure cross-browser compatibility.',
+      title: 'Software Engineer Traine',
+      company: 'STUDENT TRIBE',
+      location: 'Hyderabad, India',
+      duration: 'JUNE 2025 - Present',
+      description: '◦ Gained hands-on experience developing and enhancing web applications with the MERN stack.
+◦ Collaborated with a team to build responsive UIs using React.js and Tailwind CSS for seamless layout and
+performance.
+◦ Debugged and resolved complex issues in web apps, improving system efficiency and reliability.
+◦ Participated in Agile collaboration to ensure timely project delivery.',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'RESTful APIs', 'React Hooks']
     }
   ];
