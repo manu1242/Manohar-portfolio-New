@@ -8,7 +8,7 @@ const Projects = () => {
       description:
         "Comprehensive booking system for managing hotel, cab, and event bookings with real-time confirmation, availability tracking, and user notifications.",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtlXFPyIrGksWVi6qcXcS2zB5Hq6RZGadZA&s",
+        "https://img.freepik.com/free-vector/flat-hotel-booking-application-background_23-2148157891.jpg",
       technologies: ["React", "Node.js", "MongoDB", "JWT", "Stripe"],
       liveUrl: "https://book-wise-dev.vercel.app/",
       githubUrl: "https://github.com/manu1242",
@@ -18,7 +18,7 @@ const Projects = () => {
       description:
         "AI-integrated platform using OpenAI APIs for content generation, summarization, image generation, and chatbots with export capabilities.",
       image:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Ffuturistic-ai-portrait_1015818_230335&psig=AOvVaw2sxzoQkUJxVKkEeDQ7Xkd0&ust=1756984207847000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC_9bS6vI8DFQAAAAAdAAAAABAL",
+        "https://www.willbhurd.com/wp-content/uploads/2023/01/DALL%C2%B7E-2024-01-07-08.01.49-An-eye-catching-and-informative-lead-image-for-a-blog-about-artificial-intelligence-for-beginners.-The-image-should-visually-represent-the-concept-of-.png",
       technologies: ["React", "OpenAI API", "Node.js", "Prisma", "Vercel"],
       liveUrl: "https://one-gpt-ai-one.vercel.app/",
       githubUrl: "https://github.com/manu1242/ONE-AI",
@@ -38,7 +38,7 @@ const Projects = () => {
       description:
         "Job application management tool with job listings, status tracking, reminders, and resume builder features.",
       image:
-        "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+        "https://a.storyblok.com/f/203421/1080x1080/1f2a34a36a/job-tracking-dashboard.jpg/m/0x0",
       technologies: ["React", "Firebase", "TypeScript", "Material-UI"],
       liveUrl: "https://job-tracker-gamma.vercel.app/",
       githubUrl: "https://github.com/manu1242/Job_tracker",
@@ -49,7 +49,7 @@ const Projects = () => {
       description:
         "Interactive to-do application with drag-and-drop task management, real-time updates, and productivity analytics.",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQWa6-a-OsjUZ2f8wvNzBNi-TX6IeFXeeQQ&s",
+        "https://www.shutterstock.com/image-vector/check-list-icon-vector-symbol-600nw-2477440299.jpg",
 
       technologies: ["React", "Redux", "Firebase", "TailwindCSS"],
       liveUrl: "https://manutodolist.netlify.app/",
@@ -60,7 +60,7 @@ const Projects = () => {
       description:
         "Billing and invoice management platform with product catalog, transaction history, and print/export options.",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQWa6-a-OsjUZ2f8wvNzBNi-TX6IeFXeeQQ&s",
+        "https://www.scnsoft.com/financial-management-software/automated-billing-system/automated-billing-system-cover-picture.svg",
       technologies: [
         "MERN Stack",
         "Express.js",
