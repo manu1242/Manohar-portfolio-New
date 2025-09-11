@@ -9,7 +9,7 @@ const Experience = () => {
       company: 'STUDENT TRIBE',
       location: 'Hyderabad, India',
       duration: 'JUNE 2025 - Present',
-      description: 'description: '◦ Gained hands-on experience developing and enhancing web applications with the MERN stack.  Collaborated with a team to build responsive UIs using React.js and Tailwind CSS for seamless layout and performance.  Debugged and resolved complex issues in web apps, improving system efficiency and reliability.  Participated in Agile collaboration to ensure timely project delivery.',
+      description: 'description: 'Gained hands-on experience developing and enhancing web applications with the MERN stack.  Collaborated with a team to build responsive UIs using React.js and Tailwind CSS for seamless layout and performance.  Debugged and resolved complex issues in web apps, improving system efficiency and reliability.  Participated in Agile collaboration to ensure timely project delivery.',
 ',
       technologies: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'RESTful APIs', 'React Hooks']
     }
