@@ -61,14 +61,15 @@ const Hero = () => {
           </button>
 
           <button
-            onClick={handleResumeClick}
-            className="group px-8 py-4 border-2 border-red-500 text-red-400 rounded-full font-semibold hover:bg-red-500 hover:text-white transform hover:scale-105 transition-all duration-300"
-          >
-            <span className="flex items-center gap-2">
-              <Download className="w-5 h-5" />
-              View Resume
-            </span>
-          </button>
+  onClick={() => window.open("https://drive.google.com/file/d/1G26U6BSzQTtVCKG-tHmgwFfKpm-kROu6/view?usp=sharing ", "_blank")}
+  className="group px-8 py-4 border-2 border-red-500 text-red-400 rounded-full font-semibold hover:bg-red-500 hover:text-white transform hover:scale-105 transition-all duration-300"
+>
+  <span className="flex items-center gap-2">
+    <Download className="w-5 h-5" />
+    View Resume
+  </span>
+</button>
+
         </div>
 
         <div className="animate-bounce">
