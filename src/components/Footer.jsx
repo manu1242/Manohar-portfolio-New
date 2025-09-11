@@ -13,11 +13,7 @@ const Footer = () => {
               © 2024 Manohar. All rights reserved.
             </p>
             
-            <div className="flex items-center justify-center gap-2 text-gray-400">
-              <span>Made with</span>
-              <Heart className="w-4 h-4 text-red-500 animate-pulse" />
-              <span>and lots of coffee</span>
-            </div>
+            
             
             <div className="mt-6 flex justify-center gap-6 text-sm text-gray-400">
               <a href="#" className="hover:text-red-400 transition-colors">Privacy Policy</a>
